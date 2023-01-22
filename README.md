@@ -1,7 +1,7 @@
 ![is-a-dev Banner](https://media.discordapp.net/attachments/1022894568942866502/1066751476904509511/c44f0871fdeca97069d98766a76fcc6b9926c228da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070929792e5188fa8405762a39da6448874a.png)
 <h1 align="center">is-a.dev</h1>
 
-<p align="center"><strong>is-a.dev</strong> is a service that allows developers to get a sweet-looking `.is-a.cloud` domain for their personal websites.</p>
+<p align="center"><strong>is-a.cloud</strong> is a service that allows developers to get a sweet-looking `.is-a.cloud` domain for their personal websites.</p>
 
 ## Registration
 Try out our new fast and easy subdomain registration service [here](https://register.is-a.cloud)!
