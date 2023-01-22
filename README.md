@@ -1,4 +1,4 @@
-![is-a-dev Banner](https://raw.githubusercontent.com/is-a-dev/register/main/media/banner.png)
+![is-a-dev Banner](https://media.discordapp.net/attachments/1022894568942866502/1066750771649069197/Picsart_23-01-22_21-35-45-202.jpg)
 <h1 align="center">is-a.dev</h1>
 
 <p align="center"><strong>is-a.dev</strong> is a service that allows developers to get a sweet-looking `.is-a.cloud` domain for their personal websites.</p>
@@ -9,8 +9,8 @@ Try out our new fast and easy subdomain registration service [here](https://regi
 Or via the CI
 
 ```bash
-  npm install @is-a-dev/cli -g
-  is-a-dev create
+  npm install @is-a-cloud/cli -g
+  is-a-cloud create
 ```  
 
 **Manual Registration**:
@@ -40,4 +40,4 @@ You can check the uptime of the service via our [status dashboard](https://stats
 If you like this project, please consider donating so we can keep this project running forever!
 
 <a href="https://www.buymeacoffee.com/pekly" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me a Coffee" height="28" width="119"></a>
-<a href="https://paypal.com/oodhuu57@gmail.com," target="_blank"><img src="https://img.shields.io/badge/liberapay-donate-yellow.svg?style=for-the-badge" alt="Liberapay"></a>
+<a href="https://paypal.me/pekly," target="_blank"><img src="https://img.shields.io/badge/liberapay-donate-yellow.svg?style=for-the-badge" alt="Liberapay"></a>
