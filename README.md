@@ -40,4 +40,4 @@ You can check the uptime of the service via our [status dashboard](https://stats
 If you like this project, please consider donating so we can keep this project running forever!
 
 <a href="https://www.buymeacoffee.com/pekly" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me a Coffee" height="28" width="119"></a>
-<a href="https://paypal.me/pekly," target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg?style=for-the-badge" alt="Liberapay"></a>
+<a href="https://paypal.me/pekly," target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg?style=for-the-badge" alt="PayPal"></a>
